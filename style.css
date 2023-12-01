@@ -8,7 +8,6 @@ nav {
   padding-inline: 2rem;
   align-items: center;
   justify-content: space-between;
-
 }
 #logo {
   text-decoration: none;
@@ -24,7 +23,7 @@ li {
   margin-right: 20px;
   list-style-type: none;
 }
-a{
+a {
   text-decoration: none;
   color: black;
 }
@@ -47,11 +46,10 @@ a{
   justify-content: space-between;
   align-items: center;
 }
-#hl{
- position: relative;
- top: 9rem;
- 
+#hl {
+  position: relative;
+  top: 9rem;
 
- padding-inline: 2rem;
-
+  color: aquamarine;
+  padding-inline: 2rem;
 }
